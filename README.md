@@ -1,9 +1,7 @@
-
 # Shopify E-Commerce Website Design
 
 ## Overview
 
-![Project Preview](https://www.figma.com/proto/eOMS2g1XagfkoiT9a0I9sf/Shopify-E-commerce-Website?node-id=0-1&t=g89Iu4k5g1gtoyML-1) 
 ## Features
 
 - **User-Friendly Interface**: The design prioritizes ease of use, ensuring customers can navigate and shop with minimal effort.
@@ -23,7 +21,7 @@
 
 1. **Clone the Repository**:
 
-   git clone https://github.com/your-username/shopify-ecommerce-design.git
+   git clone (https://github.com/2208saiii/CodSoft_task3_E-commerce_Wbsite.git)
   
 ### Viewing the Design
 
